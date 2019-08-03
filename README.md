@@ -11,3 +11,6 @@ This is a template for basic CRUD operations in PHP and MySQL based on a CODEOFA
 * Use of Bootstrap for the layout
 * Pagination
 * Image Upload
+
+## Live application
+https://niltonpaes.website/php_templates/php_template_crud/
