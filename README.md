@@ -1,6 +1,6 @@
 # Basic PHP CRUD Template
 
-This is a template for basic CRUD operations in PHP and MySQL based on a CODEOFANINJA (codeofaninja.com) tutorial.
+This is a template for basic CRUD operations in PHP and MySQL.
 
 ## Some hightlights:
 
@@ -14,3 +14,6 @@ This is a template for basic CRUD operations in PHP and MySQL based on a CODEOFA
 
 ## Live application
 https://niltonpaes.website/php_templates/php_template_crud/
+
+## Reference
+Codeofaninja Tutorials - codeofaninja.com
