@@ -1,19 +1,15 @@
 # Basic PHP CRUD Template
 
-This is a template for basic CRUD operations in PHP and MySQL.
+## Hightlights:
 
-## Some hightlights:
-
-* Use of PDO extension to connect to MySQL (config/database.php)
-  * connect
-  * execute DML commands
-  * retrieve data
-* Use of Bootstrap for the layout
+* PDO extension to communincate with MySQL
+* Bootstrap
 * Pagination
 * Image Upload
+* MySQL
 
 ## Live application
-https://niltonpaes.website/php_templates/php_template_crud/
+https://phptemplates.swtas.com/php_template_crud/
 
 ## Reference
 Codeofaninja Tutorials - codeofaninja.com
