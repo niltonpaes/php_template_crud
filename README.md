@@ -1,6 +1,6 @@
 # Basic PHP CRUD Template
 
-## Hightlights:
+## Highlights:
 
 * PDO extension to communincate with MySQL
 * Bootstrap
