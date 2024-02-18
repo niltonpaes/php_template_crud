@@ -2,10 +2,10 @@
 
 ## Highlights:
 
-* PDO extension to communincate with MySQL
+* PDO extension for MySQL communication
 * Bootstrap
 * Pagination
-* Image Upload
+* File Upload
 * MySQL
 
 ## Live application
